@@ -1,0 +1,1 @@
+grep "^[a-z]*$" available-now.txt > available-now-without-numbers.txt
